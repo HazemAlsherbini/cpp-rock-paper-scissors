@@ -22,3 +22,7 @@ A console-based Rock, Paper, Scissors game developed in c++.
 1. Clone the repository.
 2. Open the source file in your preferred c++ IDE (e.g., Visual Studio).
 3. Compile and run the project.
+
+## Author
+
+Hazem Al-Sherbini.
